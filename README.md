@@ -66,13 +66,9 @@ Go to the [Releases page](../../releases), download the required historical firm
 ---
 
 ## ⚠️ Disclaimer
-- This repository provides compiled firmware only.
-- Users are allowed to download and flash it to their own devices.
-- Redistribution, modification, reverse engineering, or commercial use is prohibited without permission.
-
-This firmware is provided **“as is”**, without any warranties of any kind, whether express or implied. Anyone is free to download and update it, but I shall not be held liable for any results, including but not limited to device malfunction, data loss, or other consequences.
-
-Please also refrain from using this firmware for any illegal purposes. My sole intention in releasing it is to support learning, personal growth, and constructive exchange.
+- This repository provides compiled firmware only. This firmware is provided **“as is”**, without any warranties of any kind, whether express or implied.
+- Users are allowed to download and flash it to their own devices. Anyone is free to download and update it, but I shall not be held liable for any results, including but not limited to device malfunction, data loss, or other consequences.
+- Redistribution, modification, reverse engineering, or commercial use is prohibited without permission. Please also refrain from using this firmware for any illegal purposes. My sole intention in releasing it is to support learning, personal growth, and constructive exchange.
 
 Learning Assistant Pen Firmware (LAP)
 © 2025 Yuxiang2005. All rights reserved.
