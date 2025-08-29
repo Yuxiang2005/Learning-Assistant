@@ -12,7 +12,7 @@
 [![Download](https://img.shields.io/badge/⬇_Download-LAP_V1.0.0-blue)](../../releases/latest)
 
 Latest firmware version: **LAP_V1.0.0**  
-[Click here to download](../../releases/latest) and flash it to your device.
+You only need to download the file ending with bin, and there is no need to download other files.
 
 ---
 
