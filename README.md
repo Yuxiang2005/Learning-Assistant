@@ -36,12 +36,12 @@ Latest firmware version: **LAP_V1.0.0**
 
 ---
 
-## How to use
+## How to use (to be improved)
 1. start
 
 ---
 
-## ❓ FAQ
+## ❓ FAQ (to be modified)
 
 ### Q1: Do I need to log in to download the firmware?  
 **A1:** No. Anyone can download it directly from the [Releases page](../../releases).
