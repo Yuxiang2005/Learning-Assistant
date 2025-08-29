@@ -17,7 +17,7 @@ Latest firmware version: **LAP_V1.0.0**
 ---
 
 ## 💡 Supported Devices
-- ✅ **Penodoro**
+- ✅ **Penodoro E2**
 
 ## ⚙️ System Requirements
 - **Device Version**: E2   (Official firmware without any modification)
@@ -60,6 +60,7 @@ Go to the [Releases page](../../releases), download the required historical firm
 
 ---
 
-## 📜 License
-The code and documentation in this repository follow the MIT License.  
-Firmware binaries are for educational and personal use only.
+## ⚠️ Disclaimer
+This firmware is provided **“as is”**, without any warranties of any kind, whether express or implied. Anyone is free to download and update it, but I shall not be held liable for any results, including but not limited to device malfunction, data loss, or other consequences.
+
+Please also refrain from using this firmware for any illegal purposes. My sole intention in releasing it is to support learning, personal growth, and constructive exchange.
