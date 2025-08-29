@@ -75,4 +75,4 @@ This firmware is provided **“as is”**, without any warranties of any kind, w
 Please also refrain from using this firmware for any illegal purposes. My sole intention in releasing it is to support learning, personal growth, and constructive exchange.
 
 Learning Assistant Pen Firmware (LAP)
-© 2025 YourName. All rights reserved.
+© 2025 Yuxiang2005. All rights reserved.
