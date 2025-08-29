@@ -1,6 +1,6 @@
 # Learning Assistant Pen
 
-> **Learning Assistant Pen (LAP)** is a customized firmware modified from the **Penodoro** program.
+> **Learning Assistant Pen (LAP)** is a personal use firmware modified from the **Penodoro** program.
 > It implemnets the special features I need and helps me search and display quick notes.
 > It only supports **Penodoro** devices, and by updating my firmware through the official OTA function, these special features can be enabled.
 
@@ -28,11 +28,16 @@ Latest firmware version: **LAP_V1.0.0**
 
 ## 📖 Firmware Flashing Steps
 1. Download the [latest firmware](../../releases/latest) from my repository, and make sure to select the correct language version. 
-2. When the **Penodoro** has about 50% battery, enter Wifi connection mode.(image) 
+2. When the **Penodoro** has about 50% battery, enter Wifi connection mode and insert the charging cable as prompted.(image) 
 3. On a computer or mobile browser, enter the device's connection IP. Once the Web page loads, go to the **OTA Update** section. (image)
 4. Click <Browse> to select the firmware downloaded in Step 1, then click <Start Update>. (image)
 5. **Penodoro** will automatically begin updating. Please keep the power and network stable during the process, Once the update is finished, the device will reboot automatically.(image)
 6. After rebooting, check the fourth item in the main menu. if it shows **<NOTES>**, the update was successful.
+
+---
+
+## How to use
+1. start
 
 ---
 
